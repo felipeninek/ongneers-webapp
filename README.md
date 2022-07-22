@@ -5,6 +5,8 @@ HTML
 
 CSS
 
+Bootstrap
+
 Flask
 
 SQLAchemy
